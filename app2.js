@@ -122,7 +122,30 @@
 			    $('#map').height($(window).height()-100);
 			
                 var map = kartograph.map('#map');
+                map.setMap(svg);
                 
+                var dataMap;
+
+                var updateDate= function(date){
+                    window._date=date;
+                    var data = dataFull[window._date];
+                    dataMap={}
+                    for(var i in data){
+                        dataMap[data[i].nuts2]=data[i];
+                    }
+                    map.getLayer('regions').style('fill', function(d) {
+                        dd=dataMap[d.nuts2];
+                        if (dd == null) return '#0ff0ff';
+                        if(legends[prop]){
+                            return legends[prop][dd[prop]];
+                        } else if(dd[prop+'_color']){
+                            return dd[prop+'_color']
+                        }
+                        return '#000000';
+                    });
+                    filterTable({date:window._date});
+                }
+
                 var updateMap = function(){
                     q=new Date();
                     date= window._date || q.toISOString().substr(0,10);
@@ -152,21 +175,7 @@
                     }
 
                     map.clear();
-                    map.setMap(svg);
-
-
-                    // populate tooltip contents
-                    tt = {};
-                    $.each(data, function(i,d) {
-                        d[prop] = (d[prop]);
-                        var content='';
-                        for(var ind in indicators){
-                            content+=indicators[ind][0]+': '+prop_fmt(d[ind])+'<br>';
-                        }
-
-                        tt[d.nuts2] = [regionLabels[d.nuts2]||d.nuts2, content];
-                    });
-                    
+                                       
                     // update legend
                     var i,v,c,r,leg = $('#legend');
                     leg.html('');	
@@ -239,9 +248,7 @@
                     $('#date button').removeClass('active');
                     $(e.target).addClass('active');
                     var p = e.target.dataset.v;
-                    window._date=p;
-                    updateMap();
-                    filterTable({date:p});
+                    updateDate(p);
                 });
             });
         });
