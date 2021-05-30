@@ -1,0 +1,1344 @@
+{
+    "2021-05-30":[
+        {
+            "nuts2": "ITC1",
+            "id": "1",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Piemonte"
+        },
+        {
+            "nuts2": "ITC2",
+            "id": "2",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Val d'Aosta"
+        },
+        {
+            "nuts2": "ITC3",
+            "id": "3",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Liguria"
+        },
+        {
+            "nuts2": "ITC4",
+            "id": "4",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Lombradia"
+        },
+        {
+            "nuts2": "ITD1",
+            "id": "5",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Bolzano"
+        },
+        {
+            "nuts2": "ITD2",
+            "id": "6",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Trento"
+        },
+        {
+            "nuts2": "ITD3",
+            "id": "7",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Veneto"
+        },
+        {
+            "nuts2": "ITD4",
+            "id": "8",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Friuli Veniezia Giulia"
+        },
+        {
+            "nuts2": "ITD5",
+            "id": "9",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Emilia Romagna"
+        },
+        {
+            "nuts2": "ITE1",
+            "id": "10",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Toscana"
+        },
+        {
+            "nuts2": "ITE2",
+            "id": "11",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Umbria"
+        },
+        {
+            "nuts2": "ITE3",
+            "id": "12",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Marche"
+        },
+        {
+            "nuts2": "ITE4",
+            "id": "13",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Lazio"
+        },
+        {
+            "nuts2": "ITF1",
+            "id": "14",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Abruzzo"
+        },
+        {
+            "nuts2": "ITF2",
+            "id": "15",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Molise"
+        },
+        {
+            "nuts2": "ITF3",
+            "id": "16",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Campania"
+        },
+        {
+            "nuts2": "ITF4",
+            "id": "14",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Puglia"
+        },
+        {
+            "nuts2": "ITF5",
+            "id": "14",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Basilicata"
+        },
+        {
+            "nuts2": "ITF6",
+            "id": "17",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Calabria"
+        },
+        {
+            "nuts2": "ITG1",
+            "id": "18",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Sicilia"
+        },
+        {
+            "nuts2": "ITG2",
+            "id": "19",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Sardegna"
+        }
+    ],
+    "2021-05-31":[
+        {
+            "nuts2": "ITC1",
+            "id": "1",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Piemonte"
+        },
+        {
+            "nuts2": "ITC2",
+            "id": "2",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Val d'Aosta"
+        },
+        {
+            "nuts2": "ITC3",
+            "id": "3",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Liguria"
+        },
+        {
+            "nuts2": "ITC4",
+            "id": "4",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Lombradia"
+        },
+        {
+            "nuts2": "ITD1",
+            "id": "5",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Bolzano"
+        },
+        {
+            "nuts2": "ITD2",
+            "id": "6",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Trento"
+        },
+        {
+            "nuts2": "ITD3",
+            "id": "7",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Veneto"
+        },
+        {
+            "nuts2": "ITD4",
+            "id": "8",
+            "coprifuoco": " ",
+            "color_region": "bianca",
+            "region": "Friuli Veniezia Giulia"
+        },
+        {
+            "nuts2": "ITD5",
+            "id": "9",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Emilia Romagna"
+        },
+        {
+            "nuts2": "ITE1",
+            "id": "10",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Toscana"
+        },
+        {
+            "nuts2": "ITE2",
+            "id": "11",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Umbria"
+        },
+        {
+            "nuts2": "ITE3",
+            "id": "12",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Marche"
+        },
+        {
+            "nuts2": "ITE4",
+            "id": "13",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Lazio"
+        },
+        {
+            "nuts2": "ITF1",
+            "id": "14",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Abruzzo"
+        },
+        {
+            "nuts2": "ITF2",
+            "id": "15",
+            "coprifuoco": " ",
+            "color_region": "bianca",
+            "region": "Molise"
+        },
+        {
+            "nuts2": "ITF3",
+            "id": "16",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Campania"
+        },
+        {
+            "nuts2": "ITF4",
+            "id": "14",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Puglia"
+        },
+        {
+            "nuts2": "ITF5",
+            "id": "14",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Basilicata"
+        },
+        {
+            "nuts2": "ITF6",
+            "id": "17",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Calabria"
+        },
+        {
+            "nuts2": "ITG1",
+            "id": "18",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Sicilia"
+        },
+        {
+            "nuts2": "ITG2",
+            "id": "19",
+            "coprifuoco": " ",
+            "color_region": "bianca",
+            "region": "Sardegna"
+        }
+    ],
+    "2021-06-01":[
+        {
+            "nuts2": "ITC1",
+            "id": "1",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Piemonte"
+        },
+        {
+            "nuts2": "ITC2",
+            "id": "2",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Val d'Aosta"
+        },
+        {
+            "nuts2": "ITC3",
+            "id": "3",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Liguria"
+        },
+        {
+            "nuts2": "ITC4",
+            "id": "4",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Lombradia"
+        },
+        {
+            "nuts2": "ITD1",
+            "id": "5",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Bolzano"
+        },
+        {
+            "nuts2": "ITD2",
+            "id": "6",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Trento"
+        },
+        {
+            "nuts2": "ITD3",
+            "id": "7",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Veneto"
+        },
+        {
+            "nuts2": "ITD4",
+            "id": "8",
+            "coprifuoco": " ",
+            "color_region": "bianca",
+            "region": "Friuli Veniezia Giulia"
+        },
+        {
+            "nuts2": "ITD5",
+            "id": "9",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Emilia Romagna"
+        },
+        {
+            "nuts2": "ITE1",
+            "id": "10",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Toscana"
+        },
+        {
+            "nuts2": "ITE2",
+            "id": "11",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Umbria"
+        },
+        {
+            "nuts2": "ITE3",
+            "id": "12",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Marche"
+        },
+        {
+            "nuts2": "ITE4",
+            "id": "13",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Lazio"
+        },
+        {
+            "nuts2": "ITF1",
+            "id": "14",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Abruzzo"
+        },
+        {
+            "nuts2": "ITF2",
+            "id": "15",
+            "coprifuoco": " ",
+            "color_region": "bianca",
+            "region": "Molise"
+        },
+        {
+            "nuts2": "ITF3",
+            "id": "16",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Campania"
+        },
+        {
+            "nuts2": "ITF4",
+            "id": "14",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Puglia"
+        },
+        {
+            "nuts2": "ITF5",
+            "id": "14",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Basilicata"
+        },
+        {
+            "nuts2": "ITF6",
+            "id": "17",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Calabria"
+        },
+        {
+            "nuts2": "ITG1",
+            "id": "18",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Sicilia"
+        },
+        {
+            "nuts2": "ITG2",
+            "id": "19",
+            "coprifuoco": " ",
+            "color_region": "bianca",
+            "region": "Sardegna"
+        }
+    ],
+    "2021-06-02":[
+        {
+            "nuts2": "ITC1",
+            "id": "1",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Piemonte"
+        },
+        {
+            "nuts2": "ITC2",
+            "id": "2",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Val d'Aosta"
+        },
+        {
+            "nuts2": "ITC3",
+            "id": "3",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Liguria"
+        },
+        {
+            "nuts2": "ITC4",
+            "id": "4",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Lombradia"
+        },
+        {
+            "nuts2": "ITD1",
+            "id": "5",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Bolzano"
+        },
+        {
+            "nuts2": "ITD2",
+            "id": "6",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Trento"
+        },
+        {
+            "nuts2": "ITD3",
+            "id": "7",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Veneto"
+        },
+        {
+            "nuts2": "ITD4",
+            "id": "8",
+            "coprifuoco": " ",
+            "color_region": "bianca",
+            "region": "Friuli Veniezia Giulia"
+        },
+        {
+            "nuts2": "ITD5",
+            "id": "9",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Emilia Romagna"
+        },
+        {
+            "nuts2": "ITE1",
+            "id": "10",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Toscana"
+        },
+        {
+            "nuts2": "ITE2",
+            "id": "11",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Umbria"
+        },
+        {
+            "nuts2": "ITE3",
+            "id": "12",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Marche"
+        },
+        {
+            "nuts2": "ITE4",
+            "id": "13",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Lazio"
+        },
+        {
+            "nuts2": "ITF1",
+            "id": "14",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Abruzzo"
+        },
+        {
+            "nuts2": "ITF2",
+            "id": "15",
+            "coprifuoco": " ",
+            "color_region": "bianca",
+            "region": "Molise"
+        },
+        {
+            "nuts2": "ITF3",
+            "id": "16",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Campania"
+        },
+        {
+            "nuts2": "ITF4",
+            "id": "14",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Puglia"
+        },
+        {
+            "nuts2": "ITF5",
+            "id": "14",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Basilicata"
+        },
+        {
+            "nuts2": "ITF6",
+            "id": "17",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Calabria"
+        },
+        {
+            "nuts2": "ITG1",
+            "id": "18",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Sicilia"
+        },
+        {
+            "nuts2": "ITG2",
+            "id": "19",
+            "coprifuoco": " ",
+            "color_region": "bianca",
+            "region": "Sardegna"
+        }
+    ],
+    "2021-06-03":[
+        {
+            "nuts2": "ITC1",
+            "id": "1",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Piemonte"
+        },
+        {
+            "nuts2": "ITC2",
+            "id": "2",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Val d'Aosta"
+        },
+        {
+            "nuts2": "ITC3",
+            "id": "3",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Liguria"
+        },
+        {
+            "nuts2": "ITC4",
+            "id": "4",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Lombradia"
+        },
+        {
+            "nuts2": "ITD1",
+            "id": "5",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Bolzano"
+        },
+        {
+            "nuts2": "ITD2",
+            "id": "6",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Trento"
+        },
+        {
+            "nuts2": "ITD3",
+            "id": "7",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Veneto"
+        },
+        {
+            "nuts2": "ITD4",
+            "id": "8",
+            "coprifuoco": " ",
+            "color_region": "bianca",
+            "region": "Friuli Veniezia Giulia"
+        },
+        {
+            "nuts2": "ITD5",
+            "id": "9",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Emilia Romagna"
+        },
+        {
+            "nuts2": "ITE1",
+            "id": "10",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Toscana"
+        },
+        {
+            "nuts2": "ITE2",
+            "id": "11",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Umbria"
+        },
+        {
+            "nuts2": "ITE3",
+            "id": "12",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Marche"
+        },
+        {
+            "nuts2": "ITE4",
+            "id": "13",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Lazio"
+        },
+        {
+            "nuts2": "ITF1",
+            "id": "14",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Abruzzo"
+        },
+        {
+            "nuts2": "ITF2",
+            "id": "15",
+            "coprifuoco": " ",
+            "color_region": "bianca",
+            "region": "Molise"
+        },
+        {
+            "nuts2": "ITF3",
+            "id": "16",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Campania"
+        },
+        {
+            "nuts2": "ITF4",
+            "id": "14",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Puglia"
+        },
+        {
+            "nuts2": "ITF5",
+            "id": "14",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Basilicata"
+        },
+        {
+            "nuts2": "ITF6",
+            "id": "17",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Calabria"
+        },
+        {
+            "nuts2": "ITG1",
+            "id": "18",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Sicilia"
+        },
+        {
+            "nuts2": "ITG2",
+            "id": "19",
+            "coprifuoco": " ",
+            "color_region": "bianca",
+            "region": "Sardegna"
+        }
+    ],
+    "2021-06-04":[
+        {
+            "nuts2": "ITC1",
+            "id": "1",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Piemonte"
+        },
+        {
+            "nuts2": "ITC2",
+            "id": "2",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Val d'Aosta"
+        },
+        {
+            "nuts2": "ITC3",
+            "id": "3",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Liguria"
+        },
+        {
+            "nuts2": "ITC4",
+            "id": "4",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Lombradia"
+        },
+        {
+            "nuts2": "ITD1",
+            "id": "5",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Bolzano"
+        },
+        {
+            "nuts2": "ITD2",
+            "id": "6",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Trento"
+        },
+        {
+            "nuts2": "ITD3",
+            "id": "7",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Veneto"
+        },
+        {
+            "nuts2": "ITD4",
+            "id": "8",
+            "coprifuoco": " ",
+            "color_region": "bianca",
+            "region": "Friuli Veniezia Giulia"
+        },
+        {
+            "nuts2": "ITD5",
+            "id": "9",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Emilia Romagna"
+        },
+        {
+            "nuts2": "ITE1",
+            "id": "10",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Toscana"
+        },
+        {
+            "nuts2": "ITE2",
+            "id": "11",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Umbria"
+        },
+        {
+            "nuts2": "ITE3",
+            "id": "12",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Marche"
+        },
+        {
+            "nuts2": "ITE4",
+            "id": "13",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Lazio"
+        },
+        {
+            "nuts2": "ITF1",
+            "id": "14",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Abruzzo"
+        },
+        {
+            "nuts2": "ITF2",
+            "id": "15",
+            "coprifuoco": " ",
+            "color_region": "bianca",
+            "region": "Molise"
+        },
+        {
+            "nuts2": "ITF3",
+            "id": "16",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Campania"
+        },
+        {
+            "nuts2": "ITF4",
+            "id": "14",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Puglia"
+        },
+        {
+            "nuts2": "ITF5",
+            "id": "14",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Basilicata"
+        },
+        {
+            "nuts2": "ITF6",
+            "id": "17",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Calabria"
+        },
+        {
+            "nuts2": "ITG1",
+            "id": "18",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Sicilia"
+        },
+        {
+            "nuts2": "ITG2",
+            "id": "19",
+            "coprifuoco": " ",
+            "color_region": "bianca",
+            "region": "Sardegna"
+        }
+    ],
+    "2021-06-05":[
+        {
+            "nuts2": "ITC1",
+            "id": "1",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Piemonte"
+        },
+        {
+            "nuts2": "ITC2",
+            "id": "2",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Val d'Aosta"
+        },
+        {
+            "nuts2": "ITC3",
+            "id": "3",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Liguria"
+        },
+        {
+            "nuts2": "ITC4",
+            "id": "4",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Lombradia"
+        },
+        {
+            "nuts2": "ITD1",
+            "id": "5",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Bolzano"
+        },
+        {
+            "nuts2": "ITD2",
+            "id": "6",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Trento"
+        },
+        {
+            "nuts2": "ITD3",
+            "id": "7",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Veneto"
+        },
+        {
+            "nuts2": "ITD4",
+            "id": "8",
+            "coprifuoco": " ",
+            "color_region": "bianca",
+            "region": "Friuli Veniezia Giulia"
+        },
+        {
+            "nuts2": "ITD5",
+            "id": "9",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Emilia Romagna"
+        },
+        {
+            "nuts2": "ITE1",
+            "id": "10",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Toscana"
+        },
+        {
+            "nuts2": "ITE2",
+            "id": "11",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Umbria"
+        },
+        {
+            "nuts2": "ITE3",
+            "id": "12",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Marche"
+        },
+        {
+            "nuts2": "ITE4",
+            "id": "13",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Lazio"
+        },
+        {
+            "nuts2": "ITF1",
+            "id": "14",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Abruzzo"
+        },
+        {
+            "nuts2": "ITF2",
+            "id": "15",
+            "coprifuoco": " ",
+            "color_region": "bianca",
+            "region": "Molise"
+        },
+        {
+            "nuts2": "ITF3",
+            "id": "16",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Campania"
+        },
+        {
+            "nuts2": "ITF4",
+            "id": "14",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Puglia"
+        },
+        {
+            "nuts2": "ITF5",
+            "id": "14",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Basilicata"
+        },
+        {
+            "nuts2": "ITF6",
+            "id": "17",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Calabria"
+        },
+        {
+            "nuts2": "ITG1",
+            "id": "18",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Sicilia"
+        },
+        {
+            "nuts2": "ITG2",
+            "id": "19",
+            "coprifuoco": " ",
+            "color_region": "bianca",
+            "region": "Sardegna"
+        }
+    ],
+    "2021-06-06":[
+        {
+            "nuts2": "ITC1",
+            "id": "1",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Piemonte"
+        },
+        {
+            "nuts2": "ITC2",
+            "id": "2",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Val d'Aosta"
+        },
+        {
+            "nuts2": "ITC3",
+            "id": "3",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Liguria"
+        },
+        {
+            "nuts2": "ITC4",
+            "id": "4",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Lombradia"
+        },
+        {
+            "nuts2": "ITD1",
+            "id": "5",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Bolzano"
+        },
+        {
+            "nuts2": "ITD2",
+            "id": "6",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Trento"
+        },
+        {
+            "nuts2": "ITD3",
+            "id": "7",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Veneto"
+        },
+        {
+            "nuts2": "ITD4",
+            "id": "8",
+            "coprifuoco": " ",
+            "color_region": "bianca",
+            "region": "Friuli Veniezia Giulia"
+        },
+        {
+            "nuts2": "ITD5",
+            "id": "9",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Emilia Romagna"
+        },
+        {
+            "nuts2": "ITE1",
+            "id": "10",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Toscana"
+        },
+        {
+            "nuts2": "ITE2",
+            "id": "11",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Umbria"
+        },
+        {
+            "nuts2": "ITE3",
+            "id": "12",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Marche"
+        },
+        {
+            "nuts2": "ITE4",
+            "id": "13",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Lazio"
+        },
+        {
+            "nuts2": "ITF1",
+            "id": "14",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Abruzzo"
+        },
+        {
+            "nuts2": "ITF2",
+            "id": "15",
+            "coprifuoco": " ",
+            "color_region": "bianca",
+            "region": "Molise"
+        },
+        {
+            "nuts2": "ITF3",
+            "id": "16",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Campania"
+        },
+        {
+            "nuts2": "ITF4",
+            "id": "14",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Puglia"
+        },
+        {
+            "nuts2": "ITF5",
+            "id": "14",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Basilicata"
+        },
+        {
+            "nuts2": "ITF6",
+            "id": "17",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Calabria"
+        },
+        {
+            "nuts2": "ITG1",
+            "id": "18",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Sicilia"
+        },
+        {
+            "nuts2": "ITG2",
+            "id": "19",
+            "coprifuoco": " ",
+            "color_region": "bianca",
+            "region": "Sardegna"
+        }
+    ],
+    "2021-06-07":[
+        {
+            "nuts2": "ITC1",
+            "id": "1",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Piemonte"
+        },
+        {
+            "nuts2": "ITC2",
+            "id": "2",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Val d'Aosta"
+        },
+        {
+            "nuts2": "ITC3",
+            "id": "3",
+            "coprifuoco": " ",
+            "color_region": "bianca",
+            "region": "Liguria"
+        },
+        {
+            "nuts2": "ITC4",
+            "id": "4",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Lombradia"
+        },
+        {
+            "nuts2": "ITD1",
+            "id": "5",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Bolzano"
+        },
+        {
+            "nuts2": "ITD2",
+            "id": "6",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Trento"
+        },
+        {
+            "nuts2": "ITD3",
+            "id": "7",
+            "coprifuoco": " ",
+            "color_region": "bianca",
+            "region": "Veneto"
+        },
+        {
+            "nuts2": "ITD4",
+            "id": "8",
+            "coprifuoco": " ",
+            "color_region": "bianca",
+            "region": "Friuli Veniezia Giulia"
+        },
+        {
+            "nuts2": "ITD5",
+            "id": "9",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Emilia Romagna"
+        },
+        {
+            "nuts2": "ITE1",
+            "id": "10",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Toscana"
+        },
+        {
+            "nuts2": "ITE2",
+            "id": "11",
+            "coprifuoco": " ",
+            "color_region": "bianca",
+            "region": "Umbria"
+        },
+        {
+            "nuts2": "ITE3",
+            "id": "12",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Marche"
+        },
+        {
+            "nuts2": "ITE4",
+            "id": "13",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Lazio"
+        },
+        {
+            "nuts2": "ITF1",
+            "id": "14",
+            "coprifuoco": " ",
+            "color_region": "bianca",
+            "region": "Abruzzo"
+        },
+        {
+            "nuts2": "ITF2",
+            "id": "15",
+            "coprifuoco": " ",
+            "color_region": "bianca",
+            "region": "Molise"
+        },
+        {
+            "nuts2": "ITF3",
+            "id": "16",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Campania"
+        },
+        {
+            "nuts2": "ITF4",
+            "id": "14",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Puglia"
+        },
+        {
+            "nuts2": "ITF5",
+            "id": "14",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Basilicata"
+        },
+        {
+            "nuts2": "ITF6",
+            "id": "17",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Calabria"
+        },
+        {
+            "nuts2": "ITG1",
+            "id": "18",
+            "coprifuoco": "23:00",
+            "color_region": "gialla",
+            "region": "Sicilia"
+        },
+        {
+            "nuts2": "ITG2",
+            "id": "19",
+            "coprifuoco": " ",
+            "color_region": "bianca",
+            "region": "Sardegna"
+        }
+    ]
+
+}
