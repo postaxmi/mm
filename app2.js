@@ -97,6 +97,18 @@
             
 
             var dates = Object.keys(dataFull);
+
+            var today=new Date();
+            today= today.toISOString().substr(0,10);
+            var index=0;
+            for(var i=0;i<dates.length;i++){
+                if(dates[i]===today){
+                    index=i;
+                    break;
+                }
+            }
+
+            dates=dates.slice(index);
             
             $.each(dates, function(k,v) {
                 var val = formatDate(v)
